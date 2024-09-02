@@ -1,0 +1,2390 @@
+[
+  {
+    "year": 1980,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 46.9
+  },
+  {
+    "year": 1980,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1980,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 658.8
+  },
+  {
+    "year": 1980,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 200
+  },
+  {
+    "year": 1980,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 338.2
+  },
+  {
+    "year": 1980,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 6766.5
+  },
+  {
+    "year": 1980,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 189.7
+  },
+  {
+    "year": 1980,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 57.1
+  },
+  {
+    "year": 1980,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 34.8
+  },
+  {
+    "year": 1981,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 49.1
+  },
+  {
+    "year": 1981,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1981,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 681.5
+  },
+  {
+    "year": 1981,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 186
+  },
+  {
+    "year": 1981,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 337.6
+  },
+  {
+    "year": 1981,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7668.7
+  },
+  {
+    "year": 1981,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 216.2
+  },
+  {
+    "year": 1981,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 60.4
+  },
+  {
+    "year": 1981,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 29.1
+  },
+  {
+    "year": 1982,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 56.3
+  },
+  {
+    "year": 1982,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1982,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 668.6
+  },
+  {
+    "year": 1982,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 171
+  },
+  {
+    "year": 1982,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 271.8
+  },
+  {
+    "year": 1982,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 5629.6
+  },
+  {
+    "year": 1982,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 200.8
+  },
+  {
+    "year": 1982,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 72.3
+  },
+  {
+    "year": 1982,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 21.3
+  },
+  {
+    "year": 1983,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 62.1
+  },
+  {
+    "year": 1983,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1983,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 569.7
+  },
+  {
+    "year": 1983,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 200
+  },
+  {
+    "year": 1983,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 308.5
+  },
+  {
+    "year": 1983,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7421.3
+  },
+  {
+    "year": 1983,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 188
+  },
+  {
+    "year": 1983,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 81.1
+  },
+  {
+    "year": 1983,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 27.2
+  },
+  {
+    "year": 1984,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 60.2
+  },
+  {
+    "year": 1984,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1984,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 691.3
+  },
+  {
+    "year": 1984,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 200
+  },
+  {
+    "year": 1984,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 370.8
+  },
+  {
+    "year": 1984,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 6892.7
+  },
+  {
+    "year": 1984,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 185.6
+  },
+  {
+    "year": 1984,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 70.1
+  },
+  {
+    "year": 1984,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 57.9
+  },
+  {
+    "year": 1985,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 65.9
+  },
+  {
+    "year": 1985,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1985,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 659.6
+  },
+  {
+    "year": 1985,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 245.4
+  },
+  {
+    "year": 1985,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 288.8
+  },
+  {
+    "year": 1985,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7589.5
+  },
+  {
+    "year": 1985,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 177.8
+  },
+  {
+    "year": 1985,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 83.8
+  },
+  {
+    "year": 1985,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 38.1
+  },
+  {
+    "year": 1986,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 75.5
+  },
+  {
+    "year": 1986,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1986,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 677.4
+  },
+  {
+    "year": 1986,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 256.3
+  },
+  {
+    "year": 1986,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 345.7
+  },
+  {
+    "year": 1986,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 6470.5
+  },
+  {
+    "year": 1986,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 159.7
+  },
+  {
+    "year": 1986,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 83.9
+  },
+  {
+    "year": 1986,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 31.9
+  },
+  {
+    "year": 1987,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 59.4
+  },
+  {
+    "year": 1987,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1987,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 764.3
+  },
+  {
+    "year": 1987,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 256.3
+  },
+  {
+    "year": 1987,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 343.3
+  },
+  {
+    "year": 1987,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 6804.3
+  },
+  {
+    "year": 1987,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 167.6
+  },
+  {
+    "year": 1987,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 78.3
+  },
+  {
+    "year": 1987,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 31.6
+  },
+  {
+    "year": 1988,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 60.3
+  },
+  {
+    "year": 1988,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1988,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 644.2
+  },
+  {
+    "year": 1988,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 252.9
+  },
+  {
+    "year": 1988,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 333.9
+  },
+  {
+    "year": 1988,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 6502.7
+  },
+  {
+    "year": 1988,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 187.7
+  },
+  {
+    "year": 1988,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 77.4
+  },
+  {
+    "year": 1988,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 34
+  },
+  {
+    "year": 1989,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 60.3
+  },
+  {
+    "year": 1989,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1989,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 600.4
+  },
+  {
+    "year": 1989,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 245
+  },
+  {
+    "year": 1989,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 350.8
+  },
+  {
+    "year": 1989,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 6469.7
+  },
+  {
+    "year": 1989,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 197.1
+  },
+  {
+    "year": 1989,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 75.1
+  },
+  {
+    "year": 1989,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 33.2
+  },
+  {
+    "year": 1990,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 40.2
+  },
+  {
+    "year": 1990,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1990,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 634.5
+  },
+  {
+    "year": 1990,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 205
+  },
+  {
+    "year": 1990,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 367.4
+  },
+  {
+    "year": 1990,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7338.9
+  },
+  {
+    "year": 1990,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 189.3
+  },
+  {
+    "year": 1990,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 79.4
+  },
+  {
+    "year": 1990,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 24.1
+  },
+  {
+    "year": 1991,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 31.7
+  },
+  {
+    "year": 1991,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1991,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 668.7
+  },
+  {
+    "year": 1991,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 235
+  },
+  {
+    "year": 1991,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 429.4
+  },
+  {
+    "year": 1991,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 6946.8
+  },
+  {
+    "year": 1991,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 184
+  },
+  {
+    "year": 1991,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 82.6
+  },
+  {
+    "year": 1991,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 26.6
+  },
+  {
+    "year": 1992,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 23.6
+  },
+  {
+    "year": 1992,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1992,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 725.6
+  },
+  {
+    "year": 1992,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 284.8
+  },
+  {
+    "year": 1992,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 433.6
+  },
+  {
+    "year": 1992,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7219.4
+  },
+  {
+    "year": 1992,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 188.5
+  },
+  {
+    "year": 1992,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 88.2
+  },
+  {
+    "year": 1992,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 33.5
+  },
+  {
+    "year": 1993,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 19.2
+  },
+  {
+    "year": 1993,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1993,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 699.7
+  },
+  {
+    "year": 1993,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 260
+  },
+  {
+    "year": 1993,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 430.1
+  },
+  {
+    "year": 1993,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7428.2
+  },
+  {
+    "year": 1993,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 192.6
+  },
+  {
+    "year": 1993,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 81.9
+  },
+  {
+    "year": 1993,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 28.8
+  },
+  {
+    "year": 1994,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 18.1
+  },
+  {
+    "year": 1994,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1994,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 608
+  },
+  {
+    "year": 1994,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 287
+  },
+  {
+    "year": 1994,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 421.6
+  },
+  {
+    "year": 1994,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 8194
+  },
+  {
+    "year": 1994,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 209.8
+  },
+  {
+    "year": 1994,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 81.3
+  },
+  {
+    "year": 1994,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 27.8
+  },
+  {
+    "year": 1995,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 14.4
+  },
+  {
+    "year": 1995,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1995,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 547.2
+  },
+  {
+    "year": 1995,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 275
+  },
+  {
+    "year": 1995,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 409.9
+  },
+  {
+    "year": 1995,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 8020.4
+  },
+  {
+    "year": 1995,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 229.5
+  },
+  {
+    "year": 1995,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 80.5
+  },
+  {
+    "year": 1995,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 33.5
+  },
+  {
+    "year": 1996,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 18.9
+  },
+  {
+    "year": 1996,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1996,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 576.2
+  },
+  {
+    "year": 1996,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 257
+  },
+  {
+    "year": 1996,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 406.5
+  },
+  {
+    "year": 1996,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 8051.2
+  },
+  {
+    "year": 1996,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 279.5
+  },
+  {
+    "year": 1996,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 81.2
+  },
+  {
+    "year": 1996,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 29.7
+  },
+  {
+    "year": 1997,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 17.4
+  },
+  {
+    "year": 1997,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1997,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 588.4
+  },
+  {
+    "year": 1997,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 288
+  },
+  {
+    "year": 1997,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 391
+  },
+  {
+    "year": 1997,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7406.1
+  },
+  {
+    "year": 1997,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 260.6
+  },
+  {
+    "year": 1997,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 62.1
+  },
+  {
+    "year": 1997,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 28.8
+  },
+  {
+    "year": 1998,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 13.8
+  },
+  {
+    "year": 1998,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1998,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 588.7
+  },
+  {
+    "year": 1998,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 260.9
+  },
+  {
+    "year": 1998,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 446.5
+  },
+  {
+    "year": 1998,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7876.8
+  },
+  {
+    "year": 1998,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 240.9
+  },
+  {
+    "year": 1998,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 65.1
+  },
+  {
+    "year": 1998,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 28.5
+  },
+  {
+    "year": 1999,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 14.9
+  },
+  {
+    "year": 1999,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 1999,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 589.8
+  },
+  {
+    "year": 1999,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 300
+  },
+  {
+    "year": 1999,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 389.8
+  },
+  {
+    "year": 1999,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7876.8
+  },
+  {
+    "year": 1999,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 256.2
+  },
+  {
+    "year": 1999,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 62.2
+  },
+  {
+    "year": 1999,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 25.4
+  },
+  {
+    "year": 2000,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 10.2
+  },
+  {
+    "year": 2000,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 2000,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 591.5
+  },
+  {
+    "year": 2000,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 270
+  },
+  {
+    "year": 2000,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 371.6
+  },
+  {
+    "year": 2000,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7131.2
+  },
+  {
+    "year": 2000,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 287.4
+  },
+  {
+    "year": 2000,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 64
+  },
+  {
+    "year": 2000,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 19.4
+  },
+  {
+    "year": 2001,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 7.7
+  },
+  {
+    "year": 2001,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 2001,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 592.9
+  },
+  {
+    "year": 2001,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 260
+  },
+  {
+    "year": 2001,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 344.2
+  },
+  {
+    "year": 2001,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7810.9
+  },
+  {
+    "year": 2001,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 323.2
+  },
+  {
+    "year": 2001,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 68.2
+  },
+  {
+    "year": 2001,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 27.3
+  },
+  {
+    "year": 2002,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 6.8
+  },
+  {
+    "year": 2002,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 2002,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 602
+  },
+  {
+    "year": 2002,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 240
+  },
+  {
+    "year": 2002,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 368.8
+  },
+  {
+    "year": 2002,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7118.9
+  },
+  {
+    "year": 2002,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 341
+  },
+  {
+    "year": 2002,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 58.7
+  },
+  {
+    "year": 2002,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 23.4
+  },
+  {
+    "year": 2003,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 8.5
+  },
+  {
+    "year": 2003,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 2003,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 602
+  },
+  {
+    "year": 2003,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 245
+  },
+  {
+    "year": 2003,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 330.2
+  },
+  {
+    "year": 2003,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7520.9
+  },
+  {
+    "year": 2003,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 383
+  },
+  {
+    "year": 2003,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 69.5
+  },
+  {
+    "year": 2003,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 31
+  },
+  {
+    "year": 2004,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 6.5
+  },
+  {
+    "year": 2004,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 2004,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 602
+  },
+  {
+    "year": 2004,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 260
+  },
+  {
+    "year": 2004,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 321.3
+  },
+  {
+    "year": 2004,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7696.4
+  },
+  {
+    "year": 2004,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 340.1
+  },
+  {
+    "year": 2004,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 69.5
+  },
+  {
+    "year": 2004,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 25.3
+  },
+  {
+    "year": 2005,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 6.4
+  },
+  {
+    "year": 2005,
+    "Producto": "Maíz",
+    "name": "Cuba",
+    "n": 155.6
+  },
+  {
+    "year": 2005,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 2005,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 590
+  },
+  {
+    "year": 2005,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 257
+  },
+  {
+    "year": 2005,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 304
+  },
+  {
+    "year": 2005,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 6605.6
+  },
+  {
+    "year": 2005,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 310
+  },
+  {
+    "year": 2005,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 66.1
+  },
+  {
+    "year": 2005,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 24.8
+  },
+  {
+    "year": 2006,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 6.3
+  },
+  {
+    "year": 2006,
+    "Producto": "Maíz",
+    "name": "Cuba",
+    "n": 122.2
+  },
+  {
+    "year": 2006,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 2006,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 577.3
+  },
+  {
+    "year": 2006,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 263
+  },
+  {
+    "year": 2006,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 325.8
+  },
+  {
+    "year": 2006,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7294.8
+  },
+  {
+    "year": 2006,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 351.5
+  },
+  {
+    "year": 2006,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 60.8
+  },
+  {
+    "year": 2006,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 22.2
+  },
+  {
+    "year": 2007,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 9.1
+  },
+  {
+    "year": 2007,
+    "Producto": "Maíz",
+    "name": "Cuba",
+    "n": 141.3
+  },
+  {
+    "year": 2007,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 2007,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 688.4
+  },
+  {
+    "year": 2007,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 346
+  },
+  {
+    "year": 2007,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 375.2
+  },
+  {
+    "year": 2007,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7333.3
+  },
+  {
+    "year": 2007,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 301.6
+  },
+  {
+    "year": 2007,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 56.9
+  },
+  {
+    "year": 2007,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 22
+  },
+  {
+    "year": 2008,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 7.4
+  },
+  {
+    "year": 2008,
+    "Producto": "Maíz",
+    "name": "Cuba",
+    "n": 129.2
+  },
+  {
+    "year": 2008,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 2008,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 857.2
+  },
+  {
+    "year": 2008,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 269
+  },
+  {
+    "year": 2008,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 317.6
+  },
+  {
+    "year": 2008,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7344.4
+  },
+  {
+    "year": 2008,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 301.4
+  },
+  {
+    "year": 2008,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 55.4
+  },
+  {
+    "year": 2008,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 19
+  },
+  {
+    "year": 2009,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 11.5
+  },
+  {
+    "year": 2009,
+    "Producto": "Maíz",
+    "name": "Cuba",
+    "n": 204
+  },
+  {
+    "year": 2009,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 2009,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 822.5
+  },
+  {
+    "year": 2009,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 379
+  },
+  {
+    "year": 2009,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 335.5
+  },
+  {
+    "year": 2009,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 6223.1
+  },
+  {
+    "year": 2009,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 301.6
+  },
+  {
+    "year": 2009,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 58.6
+  },
+  {
+    "year": 2009,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 23.9
+  },
+  {
+    "year": 2010,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 9.6
+  },
+  {
+    "year": 2010,
+    "Producto": "Maíz",
+    "name": "Cuba",
+    "n": 225.6
+  },
+  {
+    "year": 2010,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 2010,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 822.7
+  },
+  {
+    "year": 2010,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 423.2
+  },
+  {
+    "year": 2010,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 332.2
+  },
+  {
+    "year": 2010,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7148.1
+  },
+  {
+    "year": 2010,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 308.3
+  },
+  {
+    "year": 2010,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 58.9
+  },
+  {
+    "year": 2010,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 20.9
+  },
+  {
+    "year": 2011,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 8.2
+  },
+  {
+    "year": 2011,
+    "Producto": "Maíz",
+    "name": "Cuba",
+    "n": 143.3
+  },
+  {
+    "year": 2011,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 2011,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 839.9
+  },
+  {
+    "year": 2011,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 444.8
+  },
+  {
+    "year": 2011,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 328.4
+  },
+  {
+    "year": 2011,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 6069.1
+  },
+  {
+    "year": 2011,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 307.7
+  },
+  {
+    "year": 2011,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 63
+  },
+  {
+    "year": 2011,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 21.8
+  },
+  {
+    "year": 2012,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 7.5
+  },
+  {
+    "year": 2012,
+    "Producto": "Maíz",
+    "name": "Cuba",
+    "n": 153.6
+  },
+  {
+    "year": 2012,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1371
+  },
+  {
+    "year": 2012,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 848.4
+  },
+  {
+    "year": 2012,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 247.3
+  },
+  {
+    "year": 2012,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 332
+  },
+  {
+    "year": 2012,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 6923.9
+  },
+  {
+    "year": 2012,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 345.3
+  },
+  {
+    "year": 2012,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 66.9
+  },
+  {
+    "year": 2012,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 26.5
+  },
+  {
+    "year": 2013,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 6.3
+  },
+  {
+    "year": 2013,
+    "Producto": "Maíz",
+    "name": "Cuba",
+    "n": 178.2
+  },
+  {
+    "year": 2013,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1483
+  },
+  {
+    "year": 2013,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 863.3
+  },
+  {
+    "year": 2013,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 393.1
+  },
+  {
+    "year": 2013,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 370.4
+  },
+  {
+    "year": 2013,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7095.6
+  },
+  {
+    "year": 2013,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 383.7
+  },
+  {
+    "year": 2013,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 19
+  },
+  {
+    "year": 2013,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 28.8
+  },
+  {
+    "year": 2014,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 6.2
+  },
+  {
+    "year": 2014,
+    "Producto": "Maíz",
+    "name": "Cuba",
+    "n": 185.9
+  },
+  {
+    "year": 2014,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1483
+  },
+  {
+    "year": 2014,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 868.7
+  },
+  {
+    "year": 2014,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 410.5
+  },
+  {
+    "year": 2014,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 304.5
+  },
+  {
+    "year": 2014,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7060.3
+  },
+  {
+    "year": 2014,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 373.5
+  },
+  {
+    "year": 2014,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 16.2
+  },
+  {
+    "year": 2014,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 24.2
+  },
+  {
+    "year": 2015,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 4.3
+  },
+  {
+    "year": 2015,
+    "Producto": "Maíz",
+    "name": "Cuba",
+    "n": 149.5
+  },
+  {
+    "year": 2015,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 876.6
+  },
+  {
+    "year": 2015,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 356.4
+  },
+  {
+    "year": 2015,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 355.4
+  },
+  {
+    "year": 2015,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7099.7
+  },
+  {
+    "year": 2015,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 294.1
+  },
+  {
+    "year": 2015,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 15.7
+  },
+  {
+    "year": 2015,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 23.5
+  },
+  {
+    "year": 2016,
+    "Producto": "Maíz",
+    "name": "Belice",
+    "n": 22.1
+  },
+  {
+    "year": 2016,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 4.9
+  },
+  {
+    "year": 2016,
+    "Producto": "Maíz",
+    "name": "Cuba",
+    "n": 170.4
+  },
+  {
+    "year": 2016,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1483
+  },
+  {
+    "year": 2016,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 882.5
+  },
+  {
+    "year": 2016,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 347.5
+  },
+  {
+    "year": 2016,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 330.3
+  },
+  {
+    "year": 2016,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7598.1
+  },
+  {
+    "year": 2016,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 301.6
+  },
+  {
+    "year": 2016,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 59
+  },
+  {
+    "year": 2016,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 25.3
+  },
+  {
+    "year": 2017,
+    "Producto": "Maíz",
+    "name": "Belice",
+    "n": 19.6
+  },
+  {
+    "year": 2017,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 4.4
+  },
+  {
+    "year": 2017,
+    "Producto": "Maíz",
+    "name": "Cuba",
+    "n": 157.8
+  },
+  {
+    "year": 2017,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1483
+  },
+  {
+    "year": 2017,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 906
+  },
+  {
+    "year": 2017,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 302.4
+  },
+  {
+    "year": 2017,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 381.2
+  },
+  {
+    "year": 2017,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7327.7
+  },
+  {
+    "year": 2017,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 319.2
+  },
+  {
+    "year": 2017,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 48.2
+  },
+  {
+    "year": 2017,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 25.7
+  },
+  {
+    "year": 2018,
+    "Producto": "Maíz",
+    "name": "Belice",
+    "n": 18.5
+  },
+  {
+    "year": 2018,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 8.3
+  },
+  {
+    "year": 2018,
+    "Producto": "Maíz",
+    "name": "Cuba",
+    "n": 144.7
+  },
+  {
+    "year": 2018,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 1483
+  },
+  {
+    "year": 2018,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 918
+  },
+  {
+    "year": 2018,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 404.4
+  },
+  {
+    "year": 2018,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 394.8
+  },
+  {
+    "year": 2018,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7122.6
+  },
+  {
+    "year": 2018,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 282.4
+  },
+  {
+    "year": 2018,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 53.9
+  },
+  {
+    "year": 2018,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 26.1
+  },
+  {
+    "year": 2019,
+    "Producto": "Maíz",
+    "name": "Belice",
+    "n": 21.1
+  },
+  {
+    "year": 2019,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 7.2
+  },
+  {
+    "year": 2019,
+    "Producto": "Maíz",
+    "name": "Cuba",
+    "n": 125.8
+  },
+  {
+    "year": 2019,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 264.5
+  },
+  {
+    "year": 2019,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 856.4
+  },
+  {
+    "year": 2019,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 299.6
+  },
+  {
+    "year": 2019,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 326.9
+  },
+  {
+    "year": 2019,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 6690.5
+  },
+  {
+    "year": 2019,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 303.6
+  },
+  {
+    "year": 2019,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 53.2
+  },
+  {
+    "year": 2019,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 29.3
+  },
+  {
+    "year": 2020,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 55.7
+  },
+  {
+    "year": 2020,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 28.5
+  },
+  {
+    "year": 2020,
+    "Producto": "Maíz",
+    "name": "Belice",
+    "n": 23.3
+  },
+  {
+    "year": 2020,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 7.7
+  },
+  {
+    "year": 2020,
+    "Producto": "Maíz",
+    "name": "Cuba",
+    "n": 128.6
+  },
+  {
+    "year": 2020,
+    "Producto": "Maíz",
+    "name": "El Salvador",
+    "n": 264.7
+  },
+  {
+    "year": 2020,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 895.4
+  },
+  {
+    "year": 2020,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 215.5
+  },
+  {
+    "year": 2020,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 360.1
+  },
+  {
+    "year": 2020,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7156.4
+  },
+  {
+    "year": 2020,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 299.1
+  },
+  {
+    "year": 2021,
+    "Producto": "Maíz",
+    "name": "Belice",
+    "n": 24.1
+  },
+  {
+    "year": 2021,
+    "Producto": "Maíz",
+    "name": "Costa Rica",
+    "n": 5.9
+  },
+  {
+    "year": 2021,
+    "Producto": "Maíz",
+    "name": "Guatemala",
+    "n": 884.6
+  },
+  {
+    "year": 2021,
+    "Producto": "Maíz",
+    "name": "Haití",
+    "n": 248.1
+  },
+  {
+    "year": 2021,
+    "Producto": "Maíz",
+    "name": "Honduras",
+    "n": 360.8
+  },
+  {
+    "year": 2021,
+    "Producto": "Maíz",
+    "name": "México",
+    "n": 7139.6
+  },
+  {
+    "year": 2021,
+    "Producto": "Maíz",
+    "name": "Nicaragua",
+    "n": 274.1
+  },
+  {
+    "year": 2021,
+    "Producto": "Maíz",
+    "name": "Panamá",
+    "n": 57.4
+  },
+  {
+    "year": 2021,
+    "Producto": "Maíz",
+    "name": "República Dominicana",
+    "n": 30.4
+  }
+]
